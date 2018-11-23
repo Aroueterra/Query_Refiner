@@ -17,13 +17,9 @@ At the moment, the dictionary cannot be altered; however, in a future version on
 
 ---
 
-
-
-
 ```sh
 The program was designed with the specifications and requirements evaluated by the Tax Compliance department of Convergys Philippines Inc., as such it may not be as flexible as I'd intended. Future revisions will rectify this.
 ```
-
 
 
 ## Installation
@@ -37,17 +33,18 @@ Run Query_Refiner.exe
 *Note: The file and corresponding database is nested in the user's temporary files directory. This is due to the initial requirement that the installation bypass administrator elevation requirements.
 ```
 
-## Feeding the Excel Document
 
 
+## Type selection: Income Statement / Balance Sheet
 
+[![Preview](https://github.com/Aroueterra/Query-Refiner/blob/master/graphics/TableSelection2.gif)]()
 
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Modifying the Values via the Dictionary
 
-
+[![Table](https://github.com/Aroueterra/Query-Refiner/blob/master/graphics/Navigating.gif)]()
 
  
 ```sh
