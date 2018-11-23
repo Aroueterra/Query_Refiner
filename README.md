@@ -37,7 +37,7 @@ Run Query_Refiner.exe
 
 ## Type selection: Income Statement / Balance Sheet
 
-[![Preview](https://github.com/Aroueterra/Query-Refiner/blob/master/graphics/TableSelection2.gif)]()
+[![Preview](https://github.com/Aroueterra/Query-Refiner/blob/master/graphics/Table.gif)]()
 
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
