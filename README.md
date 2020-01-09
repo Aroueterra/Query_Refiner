@@ -15,12 +15,12 @@ It is fed a file containing unorganized values and reorganizes them in a data-va
 
 At the moment, the dictionary cannot be altered; however, in a future version one will be able to deserialize and serialize the dictionary in and out of the program through JSon use.
 
-The UI is quite clunky, as this was an old project built in the .Net framework. A wpf implementation will help to bring this into the modern era! For insight on a previous WPF project, see: Sage-Pace, a management system.
+The UI is quite clunky, as this was a very old project built in the .Net framework. A wpf implementation will help to bring this into the modern era and standards! For insight on a previous WPF project, see: Sage-Pace, a management system.
 
 ---
 
 ```sh
-The program was designed with the specifications and requirements evaluated by the Tax Compliance department of Convergys Philippines Inc., as such it may not be as flexible as I'd intended. Future revisions will rectify this.
+The program was designed with the specifications and requirements evaluated by the Tax Compliance department of __ Philippines Inc., as such it may not be as flexible as I'd intended. Future revisions will rectify this.
 ```
 
 
